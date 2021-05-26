@@ -14,5 +14,4 @@ Execute in CodeBlocks or any other IDE:
 			Build solution
 			Complie and run
 
-In this assignment I learnead about base classes and derived classes, aswell as using object-oriented design to
-create programs such as this.
+object-oriented was used in this project
